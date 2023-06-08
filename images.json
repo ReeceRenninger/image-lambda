@@ -1,7 +1,17 @@
-[
-  {
-    "name": "test.jpg",
-    "size": "1024",
-    "type": "jpg"
-  }
-]
+  [
+    {
+      "name": "testOne",
+      "size": "1024",
+      "type": "jpg"
+    },
+    {
+      "name": "testTwo",
+      "size": "1024",
+      "type": "jpg"
+    },
+    {
+      "name": "testThree",
+      "size": "1024",
+      "type": "jpg"
+    }
+  ]
