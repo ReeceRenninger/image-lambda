@@ -20,9 +20,9 @@ When an image is uploaded to your S3 bucket, it should trigger a Lambda function
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions) 
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [GitHub Actions ci/cd](https://github.com/ReeceRenninger/image-lambda/actions/new);
+- [Example of image upload into s3Bucket](https://reece-images.s3.us-west-1.amazonaws.com/blue+eye+dragon.jpg)
+
 
 ### Collaborators
 
@@ -39,8 +39,8 @@ for now I have none and do not require one
 
 #### How to use your library (where applicable)
 
-#### Features / Routes
-
+#### Features / Routes / Processes
+ This lab was a doozy.  We ran into hurdles the whole way across but I think that was mostly due to my confusion with the lab vs what we received in our demo code. Once we got clarification and a little bit of guidance on how the lab was expected to be completed, it helped a lot. I was able to get everything working but I still think its slightly buggy since everything works but my cloudwatch wasn't triggering on upload for like an hour but when running the test manually in lambda I could see the images pushed into my json.  Hopefully review will fix some of my issues.
 
 #### Tests
 
