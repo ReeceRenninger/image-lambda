@@ -42,6 +42,8 @@ for now I have none and do not require one
 #### Features / Routes / Processes
  This lab was a doozy.  We ran into hurdles the whole way across but I think that was mostly due to my confusion with the lab vs what we received in our demo code. Once we got clarification and a little bit of guidance on how the lab was expected to be completed, it helped a lot. I was able to get everything working but I still think its slightly buggy since everything works but my cloudwatch wasn't triggering on upload for like an hour but when running the test manually in lambda I could see the images pushed into my json.  Hopefully review will fix some of my issues.
 
+ UPDATE: IT'S WORKING, I CAN'T TOUCH ANYTHING OR AWS WILL SEND ME TO THE SHADOW REALM!
+
 #### Tests
 
 
